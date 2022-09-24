@@ -1,2 +1,2 @@
 # TestesFront-End
-Testes de Front-End da UC-11 curso Senai
+Testes de Front-End do site Senai-SP de informática
